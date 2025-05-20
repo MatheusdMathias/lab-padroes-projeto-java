@@ -1,0 +1,14 @@
+src/
+├── Main.java
+├── singleton/
+│   ├── SingletonEager.java
+│   ├── SingletonLazy.java
+│   └── SingletonHolder.java
+├── strategy/
+│   ├── Comportamento.java
+│   ├── ComportamentoAgressivo.java
+│   ├── ComportamentoDefensivo.java
+│   ├── ComportamentoNormal.java
+│   └── Robo.java
+└── facade/
+    └── Facade.java
